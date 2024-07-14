@@ -2,10 +2,7 @@ module winKidsTimer
 
 go 1.22
 
-require (
-	github.com/json-iterator/go v1.1.12
-	github.com/recoilme/pudge v1.0.3
-)
+require github.com/json-iterator/go v1.1.12
 
 require (
 	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
